@@ -1,0 +1,3 @@
+lightning
+# NOTE: Using forked version of Nerfstudio because of dependency conflicts with Lightning...
+nerfstudio @git+https://github.com/alecmerdler/nerfstudio@6dff7b6a554818ac6b82060b6e38c93f470b4999
